@@ -12,9 +12,9 @@ DAtaset: [Brain Tumor Segmentation](https://www.kaggle.com/nikhilroxtomar/person
 
 # Results
 
-| Accuracy  | IoU | F1-score | Precision|
-| ------------- | ------------- | ------------- | ------------- |
-| 97.29  | 56.9  | 65.8 | 78.1
+| IoU | F1-score | Precision|
+| ------------- | ------------- | ------------- |
+| 56.9  | 65.8 | 78.1
 
 ![2](https://github.com/AlirezaFBabaei/Tumor-Segmentation/assets/50638445/118c0c1e-c5f4-419a-8932-2d676266cd6b)
 ![198](https://github.com/AlirezaFBabaei/Tumor-Segmentation/assets/50638445/4bc21edd-eab7-43fd-8273-ea9bb5609a57)
